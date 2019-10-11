@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Fall 2019)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
+- Name: Yijing Chen
+- Github username: Yijing-Chen
+- Email: xiaojing@berkeley.com
 - Lab section: 101
-- GSI: Leia Organa
+- GSI: Cindy Zhang
 
 -----
 
